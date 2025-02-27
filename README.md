@@ -13,6 +13,27 @@ Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech en
 
 ---
 
+# 🚀 Projects:
+Here are some of my featured projects:
+
+- 🎵 [**Teachable Machine Flute Song Detection**]  
+   A web app that detects flute songs using **Google's Teachable Machine** and displays real-time results.
+
+- 🚗 [**Arduino-Based Line Follower Car**]
+   A smart car that follows a predefined line using IR sensors and **Arduino Uno**.
+
+- ☁️ [**Weather Detection System using LSTM**]
+   Time-series weather prediction using **LSTM** networks trained on telemetry data.
+
+- 🎨 [**Gallery Ignitia (React/Next.js Project)**]
+   A feature-rich **gallery app** that lets users upload, browse, and filter images.
+
+- 📄 [**PDF Research Paper Quality Evaluator** ] 
+   This project evaluates the **quality of research papers (PDFs)** based on multiple factors such as **readability, structure, clarity, relevance, and impact**. 
+
+
+---
+
 # 💻 Tech Stack:
 ### Programming & Markup Languages:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -42,14 +63,10 @@ Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech en
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### DevOps & Cloud:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Hardware & Electronics:
@@ -57,9 +74,6 @@ Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech en
 
 ### Design & Editing:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 
@@ -68,10 +82,4 @@ Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech en
 ![](https://nirzak-streak-stats.vercel.app/?user=Suryansh-Sharan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-Sharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Suryansh-Sharan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-
-🔗 **Proudly created with [GPRM](https://gprm.itsvg.in)**
-
