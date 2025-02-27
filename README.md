@@ -76,10 +76,3 @@ Here are some of my featured projects:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suryansh-Sharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suryansh-Sharan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-Sharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
