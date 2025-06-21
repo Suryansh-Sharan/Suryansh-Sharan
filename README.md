@@ -10,27 +10,7 @@ Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshsharan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryansh123.sharan@gmail.com)
 
----
 
-# 🚀 Featured Projects:
-Here are some of my **highlighted projects**:
-
-- 🎵 [**Teachable Machine Flute Song Detection**]  
-   A web app that detects flute songs using **Google's Teachable Machine** and displays real-time results.
-
-- 🚗 [**Arduino-Based Line Follower Car**]  
-   A smart car that follows a predefined line using IR sensors and **Arduino Uno**.
-
-- ☁️ [**Weather Detection System using LSTM**]  
-   Time-series weather prediction using **LSTM** networks trained on telemetry data.
-
-- 🎨 [**Gallery Ignitia (React/Next.js Project)**]  
-   A feature-rich **gallery app** that lets users upload, browse, and filter images.
-
-- 📄 [**PDF Research Paper Quality Evaluator**]  
-   This project evaluates the **quality of research papers (PDFs)** based on factors like **readability, structure, clarity, relevance, and impact**.
-
----
 
 # 💻 Tech Stack:
 
