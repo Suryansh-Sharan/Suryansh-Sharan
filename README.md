@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hey there! I'm **Suryansh Sharan**, a passionate **developer, maker, and tech enthusiast** who loves exploring technology, building innovative projects, and experimenting with **AI/ML** to solve real-world problems.
-
-- 🌱 **Learning:** Deep Learning for Image Generation, **GANs (Generative Adversarial Networks)**.
-- ⚡ **Fun Fact:** I love blending **hardware projects** with **software solutions** to create cool tech experiences.
+**hardware projects** with **software solutions** to create cool tech experiences.
 
 ---
 
