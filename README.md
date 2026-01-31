@@ -1,28 +1,102 @@
-👋 Hi, I'm Suryansh Sharan
-<h3 align="center">AI × Full-Stack Engineer — Building intelligent, scalable products</h3> <p align="center"> <a href="https://linkedin.com/in/suryanshsharan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="mailto:suryanshsharanai@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/> </a> </p>
-🚀 About Me
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Suryansh's Icon ------------------------------------------------------------------------------------------------------------------------------>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-🔭 Currently working on AI-powered Full-Stack applications & real-world ML systems
+<div align="center">
+  <a href="https://github.com/Suryansh-Sharan">
+    <img src="https://itshivam.in/api/github-image?username=Suryansh-Sharan" height="300" />
+  </a>
+</div>
 
-👯 Open to collaborating on Open-source AI tools, SaaS products & scalable platforms
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Profile Bar ------------------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-💬 Ask me about Machine Learning, GenAI, System Design & Full-Stack Engineering
+<p align="center">
+  <a href="https://github.com/Suryansh-Sharan">
+    <img src="https://itshivam.in/api/github-profile?username=Suryansh-Sharan&data=followers,repositories,stars,commits&theme=neon" width="90%" />
+  </a>
+</p>
 
-📫 Reach me at suryanshsharanai@gmail.com
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Typing Intro ------------------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-🧠 Tech Stack
-⚙️ Programming Languages
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> </p>
-🌐 Frontend Development
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/> </p>
-🖥 Backend & APIs
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/> </p>
-🤖 Machine Learning & AI
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> </p>
-🗄 Databases
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> </p>
-☁️ DevOps, Cloud & Tools
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> </p>
-⚡ Fun Fact
+<h3 align="center">
+  <samp>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=>+Hi,+I'm+Suryansh+Sharan;AI+×+Full-Stack+Engineer;Building+intelligent,+scalable+products" />
+  </samp>
+</h3>
 
-I turn complex systems into scalable products and coffee into code ☕⚙️
+<h3 align="center">
+AI × Full-Stack Engineer — Building intelligent, scalable products
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/suryanshsharan">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+  </a>
+  <a href="mailto:suryanshsharanai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently working on:** AI-powered full-stack applications & real-world ML systems  
+- 👯 **Open to collaborate on:** Open-source AI tools, SaaS products & scalable platforms  
+- 💬 **Ask me about:** Machine Learning, GenAI, System Design & Full-Stack Engineering  
+- 📫 **Reach me at:** `suryanshsharanai@gmail.com`  
+- ⚡ **Fun fact:** I turn complex systems into scalable products and coffee into code ☕⚙️  
+
+---
+
+## 🧠 Tech Stack
+
+### ⚙️ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,js,ts" />
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap" />
+</p>
+
+### 🖥 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet" />
+</p>
+
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+### ☁️ DevOps, Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,postman,jenkins,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-Sharan&theme=radical&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suryansh-Sharan&theme=radical" />
+</p>
+
+
+---
+
+
