@@ -1,36 +1,22 @@
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Suryansh's Icon ------------------------------------------------------------------------------------------------------------------------------>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Profile Bar ------------------------------------------------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Typing Intro ------------------------------------------------------------------------------------------------------------------------------->
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <h3 align="center">
   <samp>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=>+Hi,+I'm+Suryansh+Sharan;AI+×+Full-Stack+Engineer;Building+intelligent,+scalable+products" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A020F0&size=24&center=true&vCenter=true&width=700&lines=>+Hi,+I'm+Suryansh+Sharan;Building+intelligent,+scalable+products" />
   </samp>
 </h3>
 
-<h3 align="center">
-AI × Full-Stack Engineer — Building intelligent, scalable products
-</h3>
-
 <p align="center">
+  <a href="suryanshs.in">
+    <img src="https://img.shields.io/badge/Website-d5d5d5?style=for-the-badge&logoColor=A020F0"/>
+  </a>
   <a href="https://linkedin.com/in/suryanshsharan">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=A020F0"/>
   </a>
   <a href="mailto:suryanshsharanai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=A020F0"/>
   </a>
 </p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ---
 
