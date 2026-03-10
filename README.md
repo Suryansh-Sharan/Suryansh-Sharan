@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="suryanshs.in">
+  <a href="https://suryanshs.in">
     <img src="https://img.shields.io/badge/Website-d5d5d5?style=for-the-badge&logoColor=A020F0"/>
   </a>
   <a href="https://linkedin.com/in/suryanshsharan">
